@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\models\\dto\\tokenapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\models\\dto\\tokenapidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\models\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\models\\applicationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\models\\techexpertise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\models\\techexpertise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\models\\language.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|c:\\users\\akib\\source\\repos\\practicaltest\\practicaltest\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE650337-2384-4306-883A-B30F9BBAFB67}|PracticalTest\\PracticalTest.csproj|solutionrelative:practicaltest\\models\\experience.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "PracticalTest\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:47:32.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationForm.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\ApplicationForm.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Models\\ApplicationForm.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\ApplicationForm.cs",
+              "RelativeToolTip": "PracticalTest\\Models\\ApplicationForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:42:28.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenApiDto.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Dto\\TokenApiDto.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Models\\Dto\\TokenApiDto.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Dto\\TokenApiDto.cs",
+              "RelativeToolTip": "PracticalTest\\Models\\Dto\\TokenApiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:42:22.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "PracticalTest\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAMUAAAAAAAAAAAAswNYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:39:07.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "PracticalTest\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T09:48:14.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Experience.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Experience.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Models\\Experience.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Experience.cs",
+              "RelativeToolTip": "PracticalTest\\Models\\Experience.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:08:30.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Language.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Language.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Models\\Language.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\Language.cs",
+              "RelativeToolTip": "PracticalTest\\Models\\Language.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:11:22.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TechExpertise.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\TechExpertise.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Models\\TechExpertise.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Models\\TechExpertise.cs",
+              "RelativeToolTip": "PracticalTest\\Models\\TechExpertise.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:11:59.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Program.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Program.cs",
+              "RelativeToolTip": "PracticalTest\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:21:43.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PracticalTest\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Akib\\source\\repos\\PracticalTest\\PracticalTest\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PracticalTest\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:32:21.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
